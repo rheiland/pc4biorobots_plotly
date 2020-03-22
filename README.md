@@ -1,1 +1,2 @@
-# pc4biorobots_plotly
+# pc4biorobots
+PhysiCell biorobots sample app
